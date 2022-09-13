@@ -1,0 +1,4 @@
+[22-Jan-2022 05:20:31 UTC] PHP Notice:  Undefined index: host in /home8/snapifyi/saloon.snapify.in/install/index.php on line 211
+[22-Jan-2022 05:20:31 UTC] PHP Notice:  Undefined index: user in /home8/snapifyi/saloon.snapify.in/install/index.php on line 212
+[22-Jan-2022 05:20:31 UTC] PHP Notice:  Undefined index: pass in /home8/snapifyi/saloon.snapify.in/install/index.php on line 213
+[22-Jan-2022 05:20:31 UTC] PHP Notice:  Undefined index: name in /home8/snapifyi/saloon.snapify.in/install/index.php on line 214
